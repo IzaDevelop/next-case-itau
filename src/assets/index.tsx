@@ -1,0 +1,12 @@
+export { default as Logo } from './images/logo.svg';
+export { default as Arrow } from './images/arrow-down.svg';
+export { default as IconSearch } from './images/icon-search.svg';
+export { default as IconUser } from './images/icon-user.svg';
+export { default as AppleStore } from './images/btn-apple-store.svg';
+export { default as PlayStore } from './images/btn-google-play.svg';
+export { default as Woman } from './images/woman.png';
+export { default as Phone } from './images/phone.png';
+export { default as IconPhone } from './images/icon-phone.svg';
+export { default as IconCard } from './images/icon-card.svg';
+export { default as IconOptions } from './images/icon-options.svg';
+export { default as IconSolutions } from './images/icon-solutions.svg';
