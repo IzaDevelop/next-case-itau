@@ -10,3 +10,4 @@ export { default as IconPhone } from './images/icon-phone.svg';
 export { default as IconCard } from './images/icon-card.svg';
 export { default as IconOptions } from './images/icon-options.svg';
 export { default as IconSolutions } from './images/icon-solutions.svg';
+export { default as Menu } from './images/menu.svg';

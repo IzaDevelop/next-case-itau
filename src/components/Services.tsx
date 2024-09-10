@@ -8,8 +8,8 @@ export function Services() {
             <Container>
                 <div className="flex-1 max-w-xl">
                     <span className="text-primary-orange text-sm font-bold uppercase">Serviços exclusivos</span>
-                    <h2 className="text-primary-gray text-5xl font-bold py-5">Gerencie suas finanças sem sair de casa</h2>
-                    <p className="text-second-gray text-lg">Veja como você pode cuidar das suas finanças pelo App Itaú de forma segura, rápida e o melhor, no conforto da sua casa.</p>
+                    <h2 className="text-primary-gray text-2xl 2xl:text-5xl font-bold py-5">Gerencie suas finanças sem sair de casa</h2>
+                    <p className="text-second-gray md:text-lg">Veja como você pode cuidar das suas finanças pelo App Itaú de forma segura, rápida e o melhor, no conforto da sua casa.</p>
 
                     <ul>
                         <li className="flex items-center gap-3 py-10 border-b border-opacity-gray">
